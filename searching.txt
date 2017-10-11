@@ -36,8 +36,8 @@ MAIL_PATH=/var/spool/mail
 
 # Local configuration
 
-LOCAL_DOMAIN=internal.example.net	# The internal.example.net domain.
-LOCAL_MAIL_SERVER=mail.internal.example.net
-MAIL_PATH=/var/spool/mail
+LOCAL_DOMAIN=internal.example.org	# The internal.example.org domain.
+LOCAL_MAIL_SERVER=mail.internal.example.org
+MAIL_PATH=/usr/local/mail
 
 This training is provided by LinuxTrainingAcademy.com.
