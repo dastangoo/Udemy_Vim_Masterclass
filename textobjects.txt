@@ -1,0 +1,18 @@
+Just like this one!
+
+colors = 
+print() 
+<html>
+<p>This is <strong>so, so, very</strong> cool!</p>
+<i_made_this_up></i_made_this_up>
+
+scores = [
+	"abc",
+	"def",
+];
+
+BACKUP_SERVER="deepfreeze01"
+MAIL_SERVER=''
+HOST=`The`
+
+This training is provided by LinuxTrainingAcademy.com.
